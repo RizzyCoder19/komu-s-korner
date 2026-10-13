@@ -1,0 +1,27 @@
+
+> luxury-fashion@0.1.0 dev
+> next dev --hostname 127.0.0.1 --port 3000
+
+▲ Next.js 16.2.4 (Turbopack)
+- Local:         http://127.0.0.1:3000
+- Network:       http://127.0.0.1:3000
+✓ Ready in 2.0s
+Creating turbopack project { dir: 'G:\\Komu\\luxury-fashion', testMode: true }
+
+○ Compiling / ...
+ GET / 200 in 11.9s (next.js: 10.8s, application-code: 1115ms)
+ GET / 200 in 468ms (next.js: 16ms, application-code: 452ms)
+ GET /shop 200 in 2.2s (next.js: 1805ms, application-code: 361ms)
+ GET /shop?search=silk 200 in 315ms (next.js: 10ms, application-code: 305ms)
+ GET /product/dress-001 200 in 3.7s (next.js: 3.4s, application-code: 290ms)
+ GET /cart 200 in 2.0s (next.js: 1855ms, application-code: 178ms)
+ GET /wishlist 200 in 1668ms (next.js: 1484ms, application-code: 185ms)
+ GET /checkout 200 in 1921ms (next.js: 1658ms, application-code: 263ms)
+ GET /collections 200 in 1598ms (next.js: 1399ms, application-code: 199ms)
+ GET /lookbook 200 in 1798ms (next.js: 1523ms, application-code: 275ms)
+ GET /contact 200 in 3.1s (next.js: 2.8s, application-code: 318ms)
+○ Compiling /_error ...
+ GET /size-guide 500 in 10.1s (next.js: 9.6s, application-code: 504ms)
+ GET /shipping 200 in 2.1s (next.js: 1861ms, application-code: 249ms)
+ GET /returns 200 in 509ms (next.js: 170ms, application-code: 339ms)
+ GET /track-order 200 in 317ms (next.js: 8ms, application-code: 309ms)
